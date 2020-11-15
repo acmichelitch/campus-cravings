@@ -1,1 +1,1 @@
-# campuscravings.github.io
+# campus-cravings
