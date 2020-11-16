@@ -35,18 +35,18 @@ body {
 .text {
     background-color: #000000;
     width: 38%;
-    height: 30%;
+    height: 32%;
     margin-left: 5%;
     margin-right: 5%;
     margin-top:3px;
     height: 10%;
     padding: 4px;
     text-align: center;
-    opacity: .6;
-    font-size: 14pt;
+    opacity: .8;
+    font-size: 8pt;
     font-family: verdana;
-    text-transform: lowercase;
-    line-height: 105%;
+    letter-spacing: 2px;
+    line-height: 150%;
 }
 
 .wrapper {
@@ -55,7 +55,7 @@ body {
 }
 
 .content {
-    width: 19%;
+    width: 18%;
     display: inline-block;
     margin: 30px;
     color: #6cc760;
@@ -79,7 +79,7 @@ body {
     text-align: center;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 110px;
+    margin-top: 80px;
     color:  #a0e599;
     letter-spacing: 4px;
     text-align: center;
@@ -91,9 +91,12 @@ body {
 .table {
     width: 60%;
     background-color: #ffffff;
+    background-image: url('Images/SWOT\ Analysis\ horizontal\ lol.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
     margin: auto;
     margin-top: 2%;
-    height: 450px;
+    height: 500px;
 }
 
 
