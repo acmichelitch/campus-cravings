@@ -1,1 +1,1 @@
-# campus-cravings
+# https://acmichelitch.github.io/campus-cravings/
